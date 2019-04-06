@@ -1,0 +1,17 @@
+{
+  "name": "benkle-attic-markdown",
+  "version": "1.0.0",
+  "description": "Markdown adapter for the attic site generator",
+  "keywords": [
+    "pug",
+    "attic",
+    "site generator",
+    "generator"
+  ],
+  "author": "Benjamin Kleiner",
+  "license": "MIT",
+  "dependencies": {
+    "benkle-attic": "github:benkle-apps/attic#master",
+    "markdown-it": "~8.4.2"
+  }
+}
